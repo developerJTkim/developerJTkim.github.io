@@ -1,0 +1,11 @@
+Index: commit-test.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/commit-test.txt b/commit-test.txt
+new file mode 100644
+--- /dev/null	(date 1642592527348)
++++ b/commit-test.txt	(date 1642592527348)
+@@ -0,0 +1,1 @@
++commit-test
