@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0c1f16a-6d8c-41ea-85ae-5d12fe5557f8" name="Default Changelist" comment="create test post and delete test, doc">
+    <list default="true" id="c0c1f16a-6d8c-41ea-85ae-5d12fe5557f8" name="Default Changelist" comment="create nuxt introduce post">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-01-21-nuxt.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-01-21-nuxt.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +44,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
     <property name="js.ns.project" value="true" />
     <property name="js.ns.project.flavor" value="JavaScript" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../nuxt_project" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.selected.package.stylelint" value="D:\etc\git_blog\developerJTkim.github.io\node_modules\stylelint" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -67,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642586875076</updated>
       <workItem from="1642586876832" duration="16406000" />
-      <workItem from="1642836236107" duration="1937000" />
+      <workItem from="1642836236107" duration="5471000" />
     </task>
     <task id="LOCAL-00001" summary="add theme minimal-mistakes">
       <created>1642592111467</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642836635041</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create nuxt introduce post">
+      <created>1642841333052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642841333052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add theme minimal-mistakes" />
     <MESSAGE value="create test post and delete test, doc" />
-    <option name="LAST_COMMIT_MESSAGE" value="create test post and delete test, doc" />
+    <MESSAGE value="create nuxt introduce post" />
+    <option name="LAST_COMMIT_MESSAGE" value="create nuxt introduce post" />
   </component>
 </project>
